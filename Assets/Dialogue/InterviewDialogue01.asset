@@ -25,7 +25,7 @@ MonoBehaviour:
       nextNodeId: 1
       scoreChange: 0
     nextNodeId: 1
-  - id: 1
+  - id: 2
     speakerName: User
     dialogueText: Hello, I'm Misoo
     characterTexture: {fileID: 0}
